@@ -25,7 +25,10 @@ SECRET_KEY = "django-insecure-94d=#px2f!z=o01!a6_#@cnq$@cs9*-6^+*$85j)r%tjh8#e$%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["conventus.onrender.com"]
+ALLOWED_HOSTS = [
+    "conventus.onrender.com",
+    "https://master--niet-conventus.netlify.app/",
+]
 
 
 # Application definition
