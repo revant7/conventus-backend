@@ -55,3 +55,10 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
+
+## License
+
+This project is licensed under a **Custom Proprietary License**.  
+**All rights reserved.** Unauthorized use, copying, modification, or distribution is strictly prohibited.  
+For permission requests, please contact: revant070206@gmail.com
+
